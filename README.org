@@ -21,7 +21,7 @@
 - 20 (ht (:title "Berichterstattung ber die verwendete Software")
 - 21 (ht (:title "Durchgefhrte Anpassungen berichten")
 - 22 (ht (:title "Gleichungen, Theorien und Theoreme formulieren")
-- 23 (ht (:title "Erklren, warum Sie Ihre spezielle Methode, Ihr Modell, Ihre Ausrstung gewhlt haben")
+- 23 (ht (:title "Erklären, warum Sie Ihre spezielle Methode, Ihr Modell, Ihre Ausrstung gewhlt haben")
 - 24 (ht (:title "Erlutern der Vorbereitung von Proben, Lsungen usw.")
 - 25 (ht (:title "Erluterung des Auswahlverfahrens fr Proben, Untersuchungen usw.")
 - 26 (ht (:title "Angabe des Zeitrahmens (Vergangenheitsformen)")
